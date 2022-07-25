@@ -1,0 +1,4 @@
+------------- { I'm Chong. } ---------------
+------------- { Reach me via email: daone3342@gmail.com. } ---------------
+------------- { I like coding. } ---------------
+------------- { If you encounter an issue, contact me ASAP. } ---------------
